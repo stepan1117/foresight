@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foresight</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="favouriteItemsNearby">Oblíbené položky poblíž</string>
+    <string name="title_activity_purchase_list">Nový nákup</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="shop_location">Obchod</string>
+    <string name="date">Datum</string>
+    <string name="new_item">Nová položka</string>
+    <string name="shopping_list_summary">
+       Celkem <strong>{0}</strong> položek za <strong>{1}</strong>{2}
+    </string>
+    <string name="title_activity_new_shopping_item">New Shopping Item</string>
+    <string name="barcode">Medium Text</string>
+    <string name="name">New Text</string>
+    <string name="enter_product_name_hint">Enter the product name here</string>
+    <string name="product_name">Name</string>
+    <string name="price_per_amount">Cena za {0}/{1}</string>
+    <string name="number_of_pieces_amount">Number of pieces/{0}</string>
+    <string name="number_of_pieces_hint">Number of pieces</string>
+    <string name="cancel_new_item">New Button</string>
+    <string name="save_new_item">Save</string>
+    <string name="cancel_save_new_item">Cancel</string>
+    <string name="title_activity_simple_scanner_activity">Scan čárového kódu</string>
+
+    <string-array name="units">
+        <item>Kusů</item>
+        <item>Kg</item>
+        <item>dkg</item>
+        <item>g</item>
+    </string-array>
+
+</resources>

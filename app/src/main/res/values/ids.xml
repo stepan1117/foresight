@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addNewShoppingItemButton" type="id">Add new item</item>
+</resources>
